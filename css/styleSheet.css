@@ -1,0 +1,42 @@
+
+body {
+  color: #5c7658;
+  max-width: 100%;
+  //margin:auto;
+  height: 100%;
+  font-size: 14px
+}
+
+h1, h3, h2 {
+  color: #82acff;
+
+}
+
+p {
+  color: #d65a31;
+}
+
+td {
+  color: #a3816a;
+  text-align: center;
+}
+
+th {
+  color: #bd512f;
+}
+
+.profilePhoto {
+  border-radius: 50px;
+  background: green;
+  width: 100px;
+  height: 100px;
+}
+
+.conatctMeLink, .myCreationLink{
+  align-content: center;
+  color: white;
+  border-radius: 100px;
+  background: #4CAF50;
+  padding: 2;
+  text-decoration: none;
+}
